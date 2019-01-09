@@ -1,0 +1,12 @@
+#question-responses {
+  display: none;
+}
+
+#answer-responses {
+  display: none;
+}
+
+.fortune1, .fortune2, .fortune3 {
+  display: none;
+  font-size: 20px;
+}
